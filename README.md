@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranshu Yadav</h1>
-<div style="text-align: center;
-padding-left: 50px;">
-    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b76118p05tpqrrpunnpytog1wirixv4wcfl4trr3vwq0q&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 50%;">
-</div>
-<h3 align="center">A passionate developer from India</h3>
-
+<h3 align="center">Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshuxyadav&label=Profile%20views&color=0e75b6&style=flat" alt="pranshuxyadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshuxyadav" alt="pranshuxyadav" /></a> </p>
