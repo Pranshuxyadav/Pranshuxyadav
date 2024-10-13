@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranshu Yadav</h1>
-<div style="text-align: center;">
+<div style="text-align: center;
+padding-left: 50%;">
     <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b76118p05tpqrrpunnpytog1wirixv4wcfl4trr3vwq0q&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 50%;">
 </div>
 <h3 align="center">A passionate developer from India</h3>
