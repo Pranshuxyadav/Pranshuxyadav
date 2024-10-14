@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranshu81214055" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu81214055?logo=twitter&style=for-the-badge" alt="pranshu81214055" /></a> </p>
 
-- 🔭 I’m currently working on [DiscoverCars's Full-stack Website](https://github.com/Pranshuxyadav/discoverycars)
+- 🔭 I’m currently working on [DiscoveryCars's Full-stack Website](https://github.com/Pranshuxyadav/discoverycars)
 
 - 🌱 I’m currently learning **alot , which includes creating excecutable files for windows and creating widgets for now.**
 
